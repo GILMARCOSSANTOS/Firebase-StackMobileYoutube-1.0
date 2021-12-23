@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998075128414",
+    "project_id": "fir-1-0-stackmobile-ytb",
+    "storage_bucket": "fir-1-0-stackmobile-ytb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998075128414:android:cc29a347f887306308b2cf",
+        "android_client_info": {
+          "package_name": "com.example.firebase10_stackmobileyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998075128414-p6oeuqag73tokrkc96ljo4b3fhcmjqs2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz_c_sz2n3Qmy--NwCkGj53pNspgQadmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998075128414-p6oeuqag73tokrkc96ljo4b3fhcmjqs2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
